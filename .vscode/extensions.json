@@ -4,6 +4,7 @@
     "msjsdiag.vscode-react-native",
     "dsznajder.es7-react-js-snippets",
     "loiane.ts-extension-pack",
-    "infeng.vscode-react-typescript"
+    "infeng.vscode-react-typescript",
+    "mgmcdermott.vscode-language-babel"
   ]
 }
