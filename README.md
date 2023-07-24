@@ -1,14 +1,8 @@
 
 <p align="center">
 	<h2 align="center">
-		<a href="https://github.com/Gesugao-san/infrastructure-template-repository">Infrastructure</a> template
+		<a href="https://github.com/Gesugao-san/resume_project">Тестовое задание</a>
 	</h2>
-	<p align="center">
-		Origin:
-		<a href="https://github.com/BYOND/infrastructure-template-repository">
-			BYOND/infrastructure-template-repository
-		</a>
-	</p>
 </p>
 
 <p align="center">
@@ -34,28 +28,51 @@
 	</a>˙
 	<a href="./../../commits/">
 		<img alt="[Last Commit]"
-		src="https://img.shields.io/github/last-commit/Gesugao-san/infrastructure-template-repository"/>
+		src="https://img.shields.io/github/last-commit/Gesugao-san/resume_project"/>
 	</a>
 </p>
 
 ---
 
-> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis scelerisque aliquam nibh, sed accumsan ipsum malesuada a. Mauris a facilisis erat. ](https://lipsum.com/)
+Сервис «todo-list».
 
-## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Details](#details)
-- [For contributors](#for-contributors)
+# Оглавление
 
-## Details
+- [Оглавление](#оглавление)
+- [Требования](#требования)
+	- [Обязательные](#обязательные)
+		- [Инфраструктура](#инфраструктура)
+			- [Возможности](#возможности)
+			- [Статусы задач](#статусы-задач)
+	- [Не обязательные](#не-обязательные)
+- [Для разработчиков](#для-разработчиков)
 
-<details>
-	<summary><b>[ Click on me ]</b></summary>
-	Hello there!
-</details>
+# Требования
 
-## For contributors
+## Обязательные
+
+* Создание todo-list на [TypeScript](https://code.visualstudio.com/docs/languages/typescript) и [React.FC](https://react.dev/learn/your-first-component) с нумерацией элементов.
+
+* Оформить в виде [репозитория на github](https://github.com/Gesugao-san/resume_project), включая краткий [README](https://github.com/Gesugao-san/resume_project#readme) по сборке проекта.
+
+### Инфраструктура
+
+#### Возможности
+* Создание задачи,
+* Удаление задачи,
+* Смена статуса задачи.
+
+#### Статусы задач
+* Выполнено,
+* Запланировано.
+
+## Не обязательные
+* [CI/CD](https://resources.github.com/ci-cd/),
+* всё остальное, по желанию.
+
+
+# Для разработчиков
 
  1. [Contributing](./.github/CONTRIBUTING.md)
  1. [ToDo list](./.github/TODO.md)

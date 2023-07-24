@@ -1,5 +1,9 @@
 {
-    "recommendations": [
-		"Gesugao-san.general-purpose-extension-pack",
+	"recommendations": [
+		"gesugao-san.general-purpose-extension-pack",
+		"msjsdiag.vscode-react-native",
+		"dsznajder.es7-react-js-snippets",
+		"loiane.ts-extension-pack",
+		"infeng.vscode-react-typescript"
 	]
 }
